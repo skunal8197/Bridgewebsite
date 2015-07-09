@@ -49,7 +49,7 @@ a.active {
 
 h1,
 h2,
-h3.
+h3,
 h4,
 h5,
 h6 {
@@ -62,9 +62,6 @@ h6 {
     margin: 0 auto;
 }
 
-.bg-light-gray {
-    background-color: #f7f7f7;
-}
 
 .bg-darkest-gray {
     background-color: #222;
@@ -265,6 +262,30 @@ fieldset[disabled] .btn-xl.active {
         font-size: 1.5em;
     }
 }
+
+
+.bg-light-gray2 {
+   /* background-image: url(../img/bgsunset.jpg); */
+    background-position: center center;
+    background-repeat: space;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+ 
+}
+
+.portfoliocontainer {
+    
+    position: relative;
+    bottom: 100px;
+    background-color: #2ecc71;
+    
+    
+}
+
+
+
 
 header {
     text-align: center;

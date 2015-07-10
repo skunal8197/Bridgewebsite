@@ -382,7 +382,7 @@ header .intro-text .intro-heading {
 
 @font-face {
     font-family: Lato;
-    src: url(../Lato-Thin.ttf);
+    src: url(../Lato-Regular.ttf);
 }
 
 @font-face {
@@ -392,7 +392,7 @@ header .intro-text .intro-heading {
 
 @font-face {
     font-family: Lato-Italic;
-    src: url(../Lato-ThinItalic.ttf);
+    src: url(../Lato-RegularItalic.ttf);
 }
 
 @font-face {

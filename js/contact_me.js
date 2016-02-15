@@ -1,5 +1,5 @@
 $(function() {
-//ok just some comments  alrighty
+//ok just some comments  alrighty ok boy boy
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
